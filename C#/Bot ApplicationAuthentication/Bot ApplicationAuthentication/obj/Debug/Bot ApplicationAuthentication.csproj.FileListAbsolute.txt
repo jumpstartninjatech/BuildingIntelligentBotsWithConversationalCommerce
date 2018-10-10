@@ -1,0 +1,128 @@
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Bot Application.dll.config
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Bot Application.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Bot Application.pdb
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Autofac.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Chronic.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Connector.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Newtonsoft.Json.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Net.Http.Formatting.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.WebHost.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Autofac.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Connector.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Newtonsoft.Json.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Net.Http.Formatting.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.WebHost.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot ApplicationAuthentication.csprojAssemblyReference.cache
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot ApplicationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot ApplicationAuthentication.csproj.CopyComplete
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot Application.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot Application.pdb
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\AuthBot.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.Platform.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Win32.Primitives.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.Platform.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\JUMPSTART NINJA 2\Downloads\MotoroloWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Bot Application.dll.config
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Bot Application.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Bot Application.pdb
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\AuthBot.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Autofac.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Chronic.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.Autofac.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Connector.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.Platform.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Logging.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Tokens.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Rest.ClientRuntime.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Win32.Primitives.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Newtonsoft.Json.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Net.Http.Formatting.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Runtime.Serialization.Primitives.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.Algorithms.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.Encoding.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.Primitives.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Security.Cryptography.X509Certificates.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.WebHost.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Autofac.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Builder.Autofac.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Bot.Connector.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Identity.Client.Platform.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Logging.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.IdentityModel.Tokens.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.Rest.ClientRuntime.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Microsoft.WindowsAzure.Configuration.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\Newtonsoft.Json.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Net.Http.Formatting.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\System.Web.Http.WebHost.xml
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\ar\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\cs\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\en\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\es\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\fa\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\fr\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\ja\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\ru\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot ApplicationAuthentication.csprojAssemblyReference.cache
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot ApplicationAuthentication.csproj.CoreCompileInputs.cache
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot ApplicationAuthentication.csproj.CopyComplete
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot Application.dll
+G:\Bot Projects\MotorolaWS\Bot ApplicationAuthentication\Bot ApplicationAuthentication\obj\Debug\Bot Application.pdb

@@ -1,0 +1,254 @@
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\DocumentDB.Spatial.Sql.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Bot Application.dll.config
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Bot Application.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Bot Application.pdb
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.Integration.WebApi.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\BotAuth.AADv2.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\BotAuth.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Chronic.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.SqlServer.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.Documents.Client.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.History.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Connector.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Edm.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.OData.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Services.Client.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Identity.Client.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Newtonsoft.Json.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Net.Http.Formatting.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Spatial.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.WebHost.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Autofac.Integration.WebApi.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\EntityFramework.SqlServer.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Azure.Documents.Client.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.pdb
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.History.pdb
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Builder.History.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Bot.Connector.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Edm.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.OData.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Data.Services.Client.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Identity.Client.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\Newtonsoft.Json.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Net.Http.Formatting.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Spatial.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\System.Web.Http.WebHost.xml
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\de\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\es\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\fr\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\it\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ja\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ko\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\ru\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hans\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\bin\zh-Hant\System.Spatial.resources.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\CommerceBot.csprojResolveAssemblyReference.cache
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\CommerceBot.csproj.CoreCompileInputs.cache
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\Bot Application.dll
+C:\Azure Workshops Related\TrailBlazer\AzureBotServices-scenarios-master\AzureBotServices-scenarios-master\CSharp\Commerce\src\CommerceBot\obj\Debug\Bot Application.pdb
+C:\src\CommerceBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\src\CommerceBot\bin\DocumentDB.Spatial.Sql.dll
+C:\src\CommerceBot\bin\Bot Application.dll.config
+C:\src\CommerceBot\bin\Bot Application.dll
+C:\src\CommerceBot\bin\Bot Application.pdb
+C:\src\CommerceBot\bin\Autofac.dll
+C:\src\CommerceBot\bin\Autofac.Integration.WebApi.dll
+C:\src\CommerceBot\bin\BotAuth.AADv2.dll
+C:\src\CommerceBot\bin\BotAuth.dll
+C:\src\CommerceBot\bin\Chronic.dll
+C:\src\CommerceBot\bin\EntityFramework.dll
+C:\src\CommerceBot\bin\EntityFramework.SqlServer.dll
+C:\src\CommerceBot\bin\Microsoft.Azure.Documents.Client.dll
+C:\src\CommerceBot\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.Azure.dll
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.dll
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.History.dll
+C:\src\CommerceBot\bin\Microsoft.Bot.Connector.dll
+C:\src\CommerceBot\bin\Microsoft.Data.Edm.dll
+C:\src\CommerceBot\bin\Microsoft.Data.OData.dll
+C:\src\CommerceBot\bin\Microsoft.Data.Services.Client.dll
+C:\src\CommerceBot\bin\Microsoft.Identity.Client.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\src\CommerceBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\src\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.dll
+C:\src\CommerceBot\bin\Newtonsoft.Json.dll
+C:\src\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\src\CommerceBot\bin\System.Net.Http.Formatting.dll
+C:\src\CommerceBot\bin\System.Spatial.dll
+C:\src\CommerceBot\bin\System.Web.Http.dll
+C:\src\CommerceBot\bin\System.Web.Http.WebHost.dll
+C:\src\CommerceBot\bin\Autofac.xml
+C:\src\CommerceBot\bin\Autofac.Integration.WebApi.xml
+C:\src\CommerceBot\bin\EntityFramework.xml
+C:\src\CommerceBot\bin\EntityFramework.SqlServer.xml
+C:\src\CommerceBot\bin\Microsoft.Azure.Documents.Client.xml
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.pdb
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.xml
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.Azure.xml
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.History.pdb
+C:\src\CommerceBot\bin\Microsoft.Bot.Builder.History.xml
+C:\src\CommerceBot\bin\Microsoft.Bot.Connector.xml
+C:\src\CommerceBot\bin\Microsoft.Data.Edm.xml
+C:\src\CommerceBot\bin\Microsoft.Data.OData.xml
+C:\src\CommerceBot\bin\Microsoft.Data.Services.Client.xml
+C:\src\CommerceBot\bin\Microsoft.Identity.Client.xml
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\src\CommerceBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\src\CommerceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\src\CommerceBot\bin\Microsoft.WindowsAzure.Storage.xml
+C:\src\CommerceBot\bin\Newtonsoft.Json.xml
+C:\src\CommerceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\src\CommerceBot\bin\System.Net.Http.Formatting.xml
+C:\src\CommerceBot\bin\System.Spatial.xml
+C:\src\CommerceBot\bin\System.Web.Http.xml
+C:\src\CommerceBot\bin\System.Web.Http.WebHost.xml
+C:\src\CommerceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\src\CommerceBot\bin\de\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\es\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\it\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\src\CommerceBot\bin\de\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\es\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\fr\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\it\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\ja\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\ko\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\ru\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\src\CommerceBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\src\CommerceBot\bin\de\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\es\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\fr\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\it\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\ja\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\ko\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\ru\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\zh-Hans\System.Spatial.resources.dll
+C:\src\CommerceBot\bin\zh-Hant\System.Spatial.resources.dll
+C:\src\CommerceBot\obj\Debug\CommerceBot.csproj.CoreCompileInputs.cache
+C:\src\CommerceBot\obj\Debug\Bot Application.dll
+C:\src\CommerceBot\obj\Debug\Bot Application.pdb
+C:\src\CommerceBot\bin\AuthBot.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\src\CommerceBot\bin\Microsoft.Win32.Primitives.dll
+C:\src\CommerceBot\bin\System.Diagnostics.DiagnosticSource.dll
+C:\src\CommerceBot\bin\System.Runtime.Serialization.Primitives.dll
+C:\src\CommerceBot\bin\System.Security.Cryptography.Algorithms.dll
+C:\src\CommerceBot\bin\System.Security.Cryptography.Encoding.dll
+C:\src\CommerceBot\bin\System.Security.Cryptography.Primitives.dll
+C:\src\CommerceBot\bin\System.Security.Cryptography.X509Certificates.dll
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\src\CommerceBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\src\CommerceBot\bin\System.Diagnostics.DiagnosticSource.xml
+C:\src\CommerceBot\obj\Debug\CommerceBot.csprojAssemblyReference.cache
+C:\src\CommerceBot\obj\Debug\CommerceBot.csproj.CopyComplete

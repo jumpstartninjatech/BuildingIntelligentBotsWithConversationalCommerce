@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot ApplicationAuthentication", "Bot ApplicationAuthentication\Bot ApplicationAuthentication.csproj", "{5F71278B-3CF4-4C61-9CE8-5425D1F3B573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F71278B-3CF4-4C61-9CE8-5425D1F3B573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F71278B-3CF4-4C61-9CE8-5425D1F3B573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F71278B-3CF4-4C61-9CE8-5425D1F3B573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F71278B-3CF4-4C61-9CE8-5425D1F3B573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2EFE01-5C66-4FC1-ABA6-158492CEFEB9}
+	EndGlobalSection
+EndGlobal
